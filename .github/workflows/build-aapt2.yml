@@ -1,0 +1,100 @@
+name: build-aapt2-arm64
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-aapt2
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare ci dir
+        run: mkdir -p ci && : > ci/build.log
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake ninja-build python3 python3-pip git bison flex zip
+          pip3 install requests
+
+      - name: Download NDK r29
+        run: |
+          curl -L -o ndk.zip https://dl.google.com/android/repository/android-ndk-r29-linux.zip
+          unzip -q ndk.zip
+          echo "NDK=$PWD/android-ndk-r29" >> "$GITHUB_ENV"
+
+      - name: Clone AOSP source (main)
+        run: |
+          python3 get_source.py --tags main 2>&1 | tee -a ci/build.log
+          test -d src/base/tools/aapt2
+
+      - name: Build host protoc (protobuf)
+        run: |
+          cd src/protobuf
+          mkdir -p build && cd build
+          cmake -GNinja -Dprotobuf_BUILD_TESTS=OFF .. 2>&1 | tee -a "$GITHUB_WORKSPACE/ci/build.log"
+          ninja -j"$(nproc --all)" 2>&1 | tee -a "$GITHUB_WORKSPACE/ci/build.log"
+          test -x "$PWD/protoc"
+
+      - name: Build aapt2 for arm64
+        run: |
+          python3 build.py --ndk="$NDK" --abi=arm64-v8a --build=build/aarch64 \
+            --protoc="$PWD/src/protobuf/build/protoc" --target=aapt2 \
+            2>&1 | tee -a ci/build.log
+
+      - name: Locate and collect aapt2 binary
+        run: |
+          mkdir -p dist
+          echo "== candidates ==" | tee -a ci/build.log
+          find . -name 'aapt2' -type f -executable 2>/dev/null | tee -a ci/build.log
+          BIN=$(find build/aarch64 -name 'aapt2' -type f -executable 2>/dev/null | head -1)
+          if [ -z "$BIN" ]; then
+            BIN=$(find . -path '*/bin/*' -name 'aapt2' -type f -executable 2>/dev/null | head -1)
+          fi
+          if [ -z "$BIN" ]; then
+            echo "ERROR: aapt2 binary not found" | tee -a ci/build.log
+            exit 1
+          fi
+          echo "BIN=$BIN"
+          echo "BIN=$BIN" >> "$GITHUB_ENV"
+          cp "$BIN" dist/aapt2
+          cp build/aarch64/android-sdk-tools-arm64-v8a.zip dist/ 2>/dev/null || true
+          ls -la dist/ | tee -a ci/build.log
+
+      - name: Create Release with aapt2
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "aapt2-main-${{ github.run_number }}" dist/* \
+            --title "aapt2 arm64 (AOSP main) #${{ github.run_number }}" \
+            --notes "aapt2 built from AOSP main via lzhiyong/android-sdk-tools pipeline. Source sha: ${{ github.sha }}"
+
+      - name: Publish status and build log
+        if: always()
+        run: |
+          git config user.email "actions@users.noreply.github.com"
+          git config user.name "GitHub Actions"
+          {
+            echo "job_status: ${{ job.status }}"
+            echo "run_number: ${{ github.run_number }}"
+            echo "run_id: ${{ github.run_id }}"
+            echo "sha: ${{ github.sha }}"
+            echo "timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          } > ci/latest.status
+          git checkout -B ci-status
+          git add -A ci
+          git -c user.email=actions@users.noreply.github.com -c user.name="GitHub Actions" commit -m "ci(run ${{ github.run_number }}): ${{ job.status }}" || true
+          git push origin HEAD:ci-status --force || echo "push status failed (non-fatal)"

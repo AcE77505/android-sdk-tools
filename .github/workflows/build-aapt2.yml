@@ -28,7 +28,7 @@ jobs:
       - name: Install system deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y cmake ninja-build python3 python3-pip git bison flex zip
+          sudo apt-get install -y cmake ninja-build python3 python3-pip git bison flex patch zip
           pip3 install requests
 
       - name: Download NDK r29
@@ -41,6 +41,11 @@ jobs:
         run: |
           python3 get_source.py --tags main 2>&1 | tee -a ci/build.log
           test -d src/base/tools/aapt2
+
+      - name: Apply protobuf CMake patch (config.h include + android log fix)
+        run: |
+          patch -p1 < patches/protobuf_CMakeLists.txt.patch 2>&1 | tee -a ci/build.log
+          test -f src/protobuf/config/config.h
 
       - name: Build host protoc (protobuf)
         run: |

@@ -21,7 +21,9 @@ jobs:
           fetch-depth: 0
 
       - name: Prepare ci dir
-        run: mkdir -p ci && : > ci/build.log
+        run: |
+          mkdir -p ci
+          : > ci/build.log
 
       - name: Install system deps
         run: |
@@ -84,6 +86,8 @@ jobs:
 
       - name: Publish status and build log
         if: always()
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           git config user.email "actions@users.noreply.github.com"
           git config user.name "GitHub Actions"
@@ -97,4 +101,6 @@ jobs:
           git checkout -B ci-status
           git add -A ci
           git -c user.email=actions@users.noreply.github.com -c user.name="GitHub Actions" commit -m "ci(run ${{ github.run_number }}): ${{ job.status }}" || true
-          git push origin HEAD:ci-status --force || echo "push status failed (non-fatal)"
+          git push origin HEAD:ci-status --force || \
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:ci-status --force || \
+            echo "push status failed (non-fatal)"

@@ -47,6 +47,11 @@ jobs:
           patch -p1 < patches/protobuf_CMakeLists.txt.patch 2>&1 | tee -a ci/build.log
           test -f src/protobuf/config/config.h
 
+      - name: Patch boringssl C++ standard (AOSP main requires C++17+)
+        run: |
+          sed -i 's/set(CMAKE_CXX_STANDARD 14)/set(CMAKE_CXX_STANDARD 20)/' src/boringssl/CMakeLists.txt
+          grep -n 'CMAKE_CXX_STANDARD' src/boringssl/CMakeLists.txt
+
       - name: Build host protoc (protobuf)
         run: |
           cd src/protobuf

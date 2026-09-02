@@ -69,6 +69,14 @@ jobs:
           sed -i 's/set(CMAKE_CXX_STANDARD 14)/set(CMAKE_CXX_STANDARD 20)/' src/boringssl/CMakeLists.txt
           grep -n 'CMAKE_CXX_STANDARD' src/boringssl/CMakeLists.txt
 
+      - name: Patch AOSP headers availability for API 30 target
+        run: |
+          find src -type f \( -name '*.h' -o -name '*.c' -o -name '*.cc' -o -name '*.cpp' \) -not -path '*/.git/*' | \
+            xargs sed -i -E 's/__INTRODUCED_IN\((3[1-9]|[4-9][0-9]*)\)/__INTRODUCED_IN(30)/g'
+          REMAIN=$(grep -rE "__INTRODUCED_IN\((3[1-9]|[4-9][0-9]*)\)" src 2>/dev/null | wc -l)
+          echo "remaining >30 __INTRODUCED_IN markers: $REMAIN"
+          test "$REMAIN" = "0"
+
       - name: Build host protoc (protobuf)
         run: |
           cd src/protobuf

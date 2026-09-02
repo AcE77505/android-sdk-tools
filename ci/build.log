@@ -1,0 +1,1725 @@
+=== get_source attempt 1 ===
+Cloning into 'src/core'...
+Cloning into 'src/extras'...
+Updating files:  69% (868/1242)Updating files:  70% (870/1242)Updating files:  71% (882/1242)Updating files:  72% (895/1242)Updating files:  73% (907/1242)Updating files:  74% (920/1242)Updating files:  75% (932/1242)Updating files:  76% (944/1242)Updating files:  77% (957/1242)Updating files:  78% (969/1242)Updating files:  79% (982/1242)Updating files:  80% (994/1242)Updating files:  81% (1007/1242)Updating files:  82% (1019/1242)Updating files:  83% (1031/1242)Updating files:  84% (1044/1242)Updating files:  85% (1056/1242)Updating files:  86% (1069/1242)Updating files:  87% (1081/1242)Updating files:  88% (1093/1242)Updating files:  89% (1106/1242)Updating files:  90% (1118/1242)Updating files:  91% (1131/1242)Updating files:  92% (1143/1242)Updating files:  93% (1156/1242)Updating files:  94% (1168/1242)Updating files:  95% (1180/1242)Updating files:  96% (1193/1242)Updating files:  97% (1205/1242)Updating files:  98% (1218/1242)Updating files:  99% (1230/1242)Updating files: 100% (1242/1242)Updating files: 100% (1242/1242), done.
+Cloning into 'src/selinux'...
+Cloning into 'src/f2fs-tools'...
+Cloning into 'src/e2fsprogs'...
+Cloning into 'src/boringssl'...
+Cloning into 'src/mkbootimg'...
+Cloning into 'src/avb'...
+Cloning into 'src/libbase'...
+Cloning into 'src/base'...
+Updating files:  26% (15281/56745)Updating files:  27% (15322/56745)Updating files:  28% (15889/56745)Updating files:  29% (16457/56745)Updating files:  30% (17024/56745)Updating files:  31% (17591/56745)Updating files:  32% (18159/56745)Updating files:  33% (18726/56745)Updating files:  34% (19294/56745)Updating files:  35% (19861/56745)Updating files:  36% (20429/56745)Updating files:  37% (20996/56745)Updating files:  38% (21564/56745)Updating files:  38% (22071/56745)Updating files:  39% (22131/56745)Updating files:  40% (22698/56745)Updating files:  41% (23266/56745)Updating files:  42% (23833/56745)Updating files:  43% (24401/56745)Updating files:  44% (24968/56745)Updating files:  45% (25536/56745)Updating files:  46% (26103/56745)Updating files:  47% (26671/56745)Updating files:  47% (27167/56745)Updating files:  47% (27201/56745)Updating files:  48% (27238/56745)Updating files:  48% (27338/56745)Updating files:  49% (27806/56745)Updating files:  50% (28373/56745)Updating files:  51% (28940/56745)Updating files:  52% (29508/56745)Updating files:  53% (30075/56745)Updating files:  54% (30643/56745)Updating files:  55% (31210/56745)Updating files:  56% (31778/56745)Updating files:  57% (32345/56745)Updating files:  58% (32913/56745)Updating files:  59% (33480/56745)Updating files:  60% (34047/56745)Updating files:  61% (34615/56745)Updating files:  62% (35182/56745)Updating files:  63% (35750/56745)Updating files:  64% (36317/56745)Updating files:  64% (36834/56745)Updating files:  65% (36885/56745)Updating files:  66% (37452/56745)Updating files:  67% (38020/56745)Updating files:  68% (38587/56745)Updating files:  69% (39155/56745)Updating files:  70% (39722/56745)Updating files:  71% (40289/56745)Updating files:  72% (40857/56745)Updating files:  73% (41424/56745)Updating files:  74% (41992/56745)Updating files:  75% (42559/56745)Updating files:  76% (43127/56745)Updating files:  77% (43694/56745)Updating files:  78% (44262/56745)Updating files:  79% (44829/56745)Updating files:  80% (45396/56745)Updating files:  81% (45964/56745)Updating files:  82% (46531/56745)Updating files:  83% (47099/56745)Updating files:  83% (47425/56745)Updating files:  84% (47666/56745)Updating files:  85% (48234/56745)Updating files:  86% (48801/56745)Updating files:  87% (49369/56745)Updating files:  88% (49936/56745)Updating files:  89% (50504/56745)Updating files:  90% (51071/56745)Updating files:  91% (51638/56745)Updating files:  92% (52206/56745)Updating files:  93% (52773/56745)Updating files:  94% (53341/56745)Updating files:  95% (53908/56745)Updating files:  96% (54476/56745)Updating files:  97% (55043/56745)Updating files:  98% (55611/56745)Updating files:  98% (55842/56745)Updating files:  99% (56178/56745)Updating files: 100% (56745/56745)Updating files: 100% (56745/56745), done.
+Cloning into 'src/native'...
+Cloning into 'src/adb'...
+Cloning into 'src/logging'...
+Cloning into 'src/incremental_delivery'...
+Cloning into 'src/fmtlib'...
+Cloning into 'src/pcre'...
+Cloning into 'src/libpng'...
+Cloning into 'src/expat'...
+Cloning into 'src/protobuf'...
+Cloning into 'src/aidl'...
+Cloning into 'src/unwinding'...
+Cloning into 'src/zopfli'...
+Cloning into 'src/jsoncpp'...
+Cloning into 'src/art'...
+Cloning into 'src/dalvik'...
+Cloning into 'src/sqlite'...
+Cloning into 'src/lz4'...
+Cloning into 'src/zstd'...
+Cloning into 'src/libusb'...
+Cloning into 'src/brotli'...
+Cloning into 'src/mdnsresponder'...
+Cloning into 'src/abseil-cpp'...
+Cloning into 'src/openscreen'...
+Cloning into 'src/googletest'...
+Cloning into 'src/tinyxml2'...
+Cloning into 'src/libziparchive'...
+Cloning into 'src/build'...
+Cloning into 'src/development'...
+Updating files:  88% (9293/10542)Updating files:  89% (9383/10542)Updating files:  90% (9488/10542)Updating files:  91% (9594/10542)Updating files:  92% (9699/10542)Updating files:  93% (9805/10542)Updating files:  94% (9910/10542)Updating files:  95% (10015/10542)Updating files:  96% (10121/10542)Updating files:  97% (10226/10542)Updating files:  98% (10332/10542)Updating files:  99% (10437/10542)Updating files: 100% (10542/10542)Updating files: 100% (10542/10542), done.
+Cloning into 'src/soong'...
+/usr/bin/git
+
+/usr/bin/go
+
+/usr/bin/bison
+
+/usr/bin/flex
+
+download success!!
+all source repos cloned OK
+patching file src/protobuf/CMakeLists.txt
+patching file src/protobuf/cmake/libprotobuf-lite.cmake
+patching file src/protobuf/cmake/libprotobuf.cmake
+patch unexpectedly ends in middle of line
+Hunk #1 succeeded at 118 with fuzz 1.
+patching file src/base/libs/androidfw/include/androidfw/CombinedIterator.h
+CMake Deprecation Warning at CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- 
+-- 3.21.12.0
+-- Performing Test protobuf_HAVE_LD_VERSION_SCRIPT
+-- Performing Test protobuf_HAVE_LD_VERSION_SCRIPT - Success
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.3")
+-- Performing Test protobuf_HAVE_BUILTIN_ATOMICS
+-- Performing Test protobuf_HAVE_BUILTIN_ATOMICS - Success
+-- Configuring done (1.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/build
+[1/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/arenaz_sampler.cc.o
+[2/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/any_lite.cc.o
+[3/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/arena.cc.o
+[4/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/arenastring.cc.o
+[5/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_enum_util.cc.o
+[6/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_util.cc.o
+[7/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/extension_set.cc.o
+[8/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/implicit_weak_message.cc.o
+[9/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/io_win32.cc.o
+[10/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/inlined_string_field.cc.o
+[11/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_tctable_lite.cc.o
+In file included from /home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_lite.cc:36:
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h: In function ‘void google::protobuf::internal::AlignFail(uintptr_t) [with long unsigned int align = 4]’:
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h:256:1: warning: ‘noreturn’ function does return
+  256 | }
+      | ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h: In function ‘void google::protobuf::internal::AlignFail(uintptr_t) [with long unsigned int align = 8]’:
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h:256:1: warning: ‘noreturn’ function does return
+[12/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/coded_stream.cc.o
+[13/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/strtod.cc.o
+[14/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream.cc.o
+[15/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream_impl.cc.o
+[16/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream_impl_lite.cc.o
+[17/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/map.cc.o
+[18/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/message_lite.cc.o
+[19/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/parse_context.cc.o
+[20/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/repeated_ptr_field.cc.o
+[21/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/bytestream.cc.o
+[22/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/status.cc.o
+[23/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/common.cc.o
+[24/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/int128.cc.o
+[25/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/repeated_field.cc.o
+[26/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/statusor.cc.o
+[27/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/stringpiece.cc.o
+[28/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/stringprintf.cc.o
+[29/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/structurally_valid.cc.o
+[30/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/time.cc.o
+[31/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/strutil.cc.o
+[32/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/wire_format_lite.cc.o
+[33/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/any.cc.o
+[34/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/any.pb.cc.o
+[35/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/api.pb.cc.o
+[36/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/compiler/importer.cc.o
+[37/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/compiler/parser.cc.o
+[38/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/duration.pb.cc.o
+[39/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor.pb.cc.o
+[40/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor_database.cc.o
+[41/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/empty.pb.cc.o
+[42/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/dynamic_message.cc.o
+[43/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/extension_set_heavy.cc.o
+[44/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_bases.cc.o
+[45/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/field_mask.pb.cc.o
+[46/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/gzip_stream.cc.o
+[47/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_tctable_full.cc.o
+[48/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/printer.cc.o
+[49/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/io/tokenizer.cc.o
+[50/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor.cc.o
+[51/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_reflection.cc.o
+[52/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/service.cc.o
+[53/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/map_field.cc.o
+[54/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/reflection_ops.cc.o
+[55/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/message.cc.o
+[56/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/source_context.pb.cc.o
+[57/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/substitute.cc.o
+[58/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/timestamp.pb.cc.o
+[59/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/struct.pb.cc.o
+[60/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/type.pb.cc.o
+[61/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/delimited_message_util.cc.o
+[62/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/unknown_field_set.cc.o
+[63/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/text_format.cc.o
+[64/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/field_comparator.cc.o
+[65/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/error_listener.cc.o
+[66/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/field_mask_util.cc.o
+[67/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/datapiece.cc.o
+[68/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_escaping.cc.o
+[69/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/field_mask_utility.cc.o
+[70/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/default_value_objectwriter.cc.o
+[71/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_stream_parser.cc.o
+[72/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_objectwriter.cc.o
+[73/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/object_writer.cc.o
+[74/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/protostream_objectsource.cc.o
+[75/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/proto_writer.cc.o
+[76/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/protostream_objectwriter.cc.o
+[77/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/type_info.cc.o
+[78/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/json_util.cc.o
+[79/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/utility.cc.o
+[80/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/time_util.cc.o
+[81/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/type_resolver_util.cc.o
+[82/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/wrappers.pb.cc.o
+[83/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/wire_format.cc.o
+[84/205] Building CXX object CMakeFiles/libprotobuf.dir/src/google/protobuf/util/message_differencer.cc.o
+[85/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/code_generator.cc.o
+[86/205] Linking CXX static library libprotobuf.a
+[87/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/enum_field.cc.o
+[88/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/enum.cc.o
+[89/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/command_line_interface.cc.o
+[90/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/extension.cc.o
+[91/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/field.cc.o
+[92/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/generator.cc.o
+[93/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/file.cc.o
+[94/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/map_field.cc.o
+[95/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/helpers.cc.o
+[96/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/message_field.cc.o
+[97/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/padding_optimizer.cc.o
+[98/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/message.cc.o
+[99/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/parse_function_generator.cc.o
+[100/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/primitive_field.cc.o
+[101/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/service.cc.o
+[102/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_doc_comment.cc.o
+[103/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/string_field.cc.o
+[104/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_enum_field.cc.o
+[105/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_enum.cc.o
+[106/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_field_base.cc.o
+[107/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_generator.cc.o
+[108/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_helpers.cc.o
+[109/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_map_field.cc.o
+[110/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_message_field.cc.o
+[111/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_message.cc.o
+[112/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_primitive_field.cc.o
+[113/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_reflection_class.cc.o
+[114/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_repeated_enum_field.cc.o
+[115/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_repeated_message_field.cc.o
+[116/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_repeated_primitive_field.cc.o
+[117/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_source_generator_base.cc.o
+[118/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_wrapper_field.cc.o
+[119/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/context.cc.o
+[120/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/doc_comment.cc.o
+[121/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum.cc.o
+[122/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum_field.cc.o
+[123/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum_field_lite.cc.o
+[124/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum_lite.cc.o
+[125/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/extension.cc.o
+[126/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/extension_lite.cc.o
+[127/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/field.cc.o
+[128/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/generator.cc.o
+[129/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/file.cc.o
+[130/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/generator_factory.cc.o
+[131/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/helpers.cc.o
+[132/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/map_field_lite.cc.o
+[133/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/kotlin_generator.cc.o
+[134/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/map_field.cc.o
+[135/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_field.cc.o
+[136/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_builder_lite.cc.o
+[137/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_builder.cc.o
+[138/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message.cc.o
+[139/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_field_lite.cc.o
+[140/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/name_resolver.cc.o
+[141/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_lite.cc.o
+[142/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/primitive_field.cc.o
+[143/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/primitive_field_lite.cc.o
+[144/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/service.cc.o
+[145/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/shared_code_generator.cc.o
+[146/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/string_field.cc.o
+[147/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/string_field_lite.cc.o
+[148/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_enum.cc.o
+[149/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_enum_field.cc.o
+[150/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_extension.cc.o
+[151/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_field.cc.o
+[152/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_generator.cc.o
+[153/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_file.cc.o
+[154/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_helpers.cc.o
+[155/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_map_field.cc.o
+[156/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_message_field.cc.o
+[157/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_oneof.cc.o
+[158/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_message.cc.o
+[159/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_primitive_field.cc.o
+[160/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/plugin.cc.o
+[161/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/plugin.pb.cc.o
+[162/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/php/php_generator.cc.o
+[163/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/python/generator.cc.o
+[164/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/python/helpers.cc.o
+[165/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/subprocess.cc.o
+[166/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/zip_writer.cc.o
+[167/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/ruby/ruby_generator.cc.o
+[168/205] Building CXX object CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/python/pyi_generator.cc.o
+[169/205] Building CXX object CMakeFiles/protoc.dir/src/google/protobuf/compiler/main.cc.o
+[170/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/any_lite.cc.o
+[171/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/arenaz_sampler.cc.o
+[172/205] Linking CXX static library libprotoc.a
+[173/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/arena.cc.o
+[174/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/arenastring.cc.o
+[175/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/generated_enum_util.cc.o
+[176/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/generated_message_util.cc.o
+[177/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/implicit_weak_message.cc.o
+[178/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/extension_set.cc.o
+[179/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/io/io_win32.cc.o
+[180/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/generated_message_tctable_lite.cc.o
+In file included from /home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_lite.cc:36:
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h: In function ‘void google::protobuf::internal::AlignFail(uintptr_t) [with long unsigned int align = 4]’:
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h:256:1: warning: ‘noreturn’ function does return
+  256 | }
+      | ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h: In function ‘void google::protobuf::internal::AlignFail(uintptr_t) [with long unsigned int align = 8]’:
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/generated_message_tctable_impl.h:256:1: warning: ‘noreturn’ function does return
+[181/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/inlined_string_field.cc.o
+[182/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/io/coded_stream.cc.o
+[183/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/io/strtod.cc.o
+[184/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/io/zero_copy_stream.cc.o
+[185/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/io/zero_copy_stream_impl.cc.o
+[186/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/io/zero_copy_stream_impl_lite.cc.o
+[187/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/map.cc.o
+[188/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/message_lite.cc.o
+[189/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/parse_context.cc.o
+[190/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/repeated_ptr_field.cc.o
+[191/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/bytestream.cc.o
+[192/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/common.cc.o
+[193/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/status.cc.o
+[194/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/int128.cc.o
+[195/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/statusor.cc.o
+[196/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/repeated_field.cc.o
+[197/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/stringpiece.cc.o
+[198/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/stringprintf.cc.o
+[199/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/structurally_valid.cc.o
+[200/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/time.cc.o
+[201/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/stubs/strutil.cc.o
+[202/205] Building CXX object CMakeFiles/libprotobuf-lite.dir/src/google/protobuf/wire_format_lite.cc.o
+[203/205] Linking CXX executable protoc-3.21.12.0
+[204/205] Creating executable symlink protoc
+[205/205] Linking CXX static library libprotobuf-lite.a
+-- The C compiler identification is Clang 21.0.0
+-- The CXX compiler identification is Clang 21.0.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The ASM compiler identification is Clang with GNU-like command-line
+-- Found assembler: /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+-- {fmt} version: 11.0.2
+-- Build type: Release
+-- Performing Test HAS_NULLPTR_WARNING
+-- Performing Test HAS_NULLPTR_WARNING - Success
+CMake Deprecation Warning at src/pcre/CMakeLists.txt:108 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Could NOT find BZip2 (missing: BZIP2_LIBRARIES BZIP2_INCLUDE_DIR) 
+-- Found ZLIB: /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/30/libz.so (found version "1.3.0.1")
+-- Could not find OPTIONAL package Readline
+-- Could not find OPTIONAL package Editline
+-- Looking for dirent.h
+-- Looking for dirent.h - found
+-- Looking for sys/stat.h
+-- Looking for sys/stat.h - found
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for windows.h
+-- Looking for windows.h - not found
+-- Looking for bcopy
+-- Looking for bcopy - found
+-- Looking for memfd_create
+-- Looking for memfd_create - not found
+-- Looking for memmove
+-- Looking for memmove - found
+-- Looking for secure_getenv
+-- Looking for secure_getenv - not found
+-- Looking for strerror
+-- Looking for strerror - found
+-- Performing Test HAVE_REALPATH
+-- Performing Test HAVE_REALPATH - Success
+-- Performing Test HAVE_BUILTIN_MUL_OVERFLOW
+-- Performing Test HAVE_BUILTIN_MUL_OVERFLOW - Success
+-- Performing Test HAVE_ATTRIBUTE_UNINITIALIZED
+-- Performing Test HAVE_ATTRIBUTE_UNINITIALIZED - Success
+-- Performing Test HAVE_VISIBILITY
+-- Performing Test HAVE_VISIBILITY - Success
+-- Performing Test INTEL_CET_ENABLED
+-- Performing Test INTEL_CET_ENABLED - Failed
+-- 
+-- 
+-- PCRE2-10.44 configuration summary:
+-- 
+--   Install prefix .................. : /usr/local
+--   C compiler ...................... : /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+--   C compiler flags ................ : -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fcolor-diagnostics -fPIC -Wno-attributes -Wno-invalid-constexpr -O3 -DNDEBUG 
+-- 
+--   Build 8 bit PCRE2 library ....... : ON
+--   Build 16 bit PCRE2 library ...... : OFF
+--   Build 32 bit PCRE2 library ...... : OFF
+--   Enable JIT compiling support .... : OFF
+--   Use SELinux allocator in JIT .... : IGNORE
+--   Enable Unicode support .......... : ON
+--   Newline char/sequence ........... : LF
+--   \R matches only ANYCRLF ......... : OFF
+--   \C is disabled .................. : OFF
+--   EBCDIC coding ................... : OFF
+--   EBCDIC coding with NL=0x25 ...... : OFF
+--   Rebuild char tables ............. : OFF
+--   Internal link size .............. : 2
+--   Maximum variable lookbehind ..... : 255
+--   Parentheses nest limit .......... : 250
+--   Heap limit ...................... : 20000000
+--   Match limit ..................... : 10000000
+--   Match depth limit ............... : MATCH_LIMIT
+--   Build shared libs ............... : OFF
+--   Build static libs ............... : ON
+--      with PIC enabled ............. : OFF
+--   Build pcre2grep ................. : ON
+--   Enable JIT in pcre2grep ......... : ON
+--   Enable callouts in pcre2grep .... : ON
+--   Enable callout fork in pcre2grep. : ON
+--   Buffer size for pcre2grep ....... : 20480
+--   Build tests (implies pcre2test .. : ON
+--                and pcre2grep)
+--   Link pcre2grep with libz ........ : ON
+--   Link pcre2grep with libbz2 ...... : Library not found
+--   Link pcre2test with libeditline . : Library not found
+--   Link pcre2test with libreadline . : Library not found
+--   Support Valgrind .................: OFF
+--   Use %zu and %td ..................: AUTO
+-- 
+CMake Deprecation Warning at src/libpng/CMakeLists.txt:18 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Building for target architecture: aarch64
+-- Found AWK program: /usr/bin/gawk
+CMake Deprecation Warning at src/zopfli/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Deprecation Warning at src/jsoncpp/CMakeLists.txt:17 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- JsonCpp Version: 1.9.5
+-- Looking for C++ include clocale
+-- Looking for C++ include clocale - found
+-- Looking for localeconv
+-- Looking for localeconv - found
+-- Looking for C++ include stdint.h
+-- Looking for C++ include stdint.h - found
+-- Looking for C++ include stddef.h
+-- Looking for C++ include stddef.h - found
+-- Check size of lconv
+-- Check size of lconv - done
+-- Performing Test HAVE_DECIMAL_POINT
+-- Performing Test HAVE_DECIMAL_POINT - Success
+-- Found Python3: /usr/bin/python3.12 (found version "3.12.3") found components: Interpreter
+CMake Deprecation Warning at src/expat/expat/CMakeLists.txt:37 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Looking for dlfcn.h
+-- Looking for dlfcn.h - found
+-- Looking for fcntl.h
+-- Looking for fcntl.h - found
+-- Looking for inttypes.h
+-- Looking for inttypes.h - found
+-- Looking for memory.h
+-- Looking for memory.h - found
+-- Looking for stdlib.h
+-- Looking for stdlib.h - found
+-- Looking for strings.h
+-- Looking for strings.h - found
+-- Looking for string.h
+-- Looking for string.h - found
+-- Looking for getpagesize
+-- Looking for getpagesize - found
+-- Looking for mmap
+-- Looking for mmap - found
+-- Looking for getrandom
+-- Looking for getrandom - found
+-- Looking for arc4random_buf
+-- Looking for arc4random_buf - found
+-- Looking for 4 include files stdlib.h, ..., float.h
+-- Looking for 4 include files stdlib.h, ..., float.h - found
+-- Performing Test HAVE_OFF_T
+-- Performing Test HAVE_OFF_T - Success
+-- Performing Test HAVE_SYSCALL_GETRANDOM
+-- Performing Test HAVE_SYSCALL_GETRANDOM - Success
+-- Performing Test FLAG_NO_STRICT_ALIASING
+-- Performing Test FLAG_NO_STRICT_ALIASING - Success
+-- Performing Test FLAG_VISIBILITY
+-- Performing Test FLAG_VISIBILITY - Success
+-- Looking for cos in m
+-- Looking for cos in m - found
+-- ===========================================================================
+-- 
+-- Configuration
+--   Generator .................. Ninja
+--   Build type ................. Release
+--   Prefix ..................... /usr/local
+--   Shared libraries ........... OFF
+--   Character type ............. char (UTF-8)
+--   Library name postfix ....... 
+-- 
+--   Build documentation ........ OFF
+--   Build examples ............. ON
+--   Build fuzzers .............. OFF
+--   Build tests ................ ON
+--   Build tools (xmlwf) ........ ON
+--   Build pkg-config file ...... ON
+--   Install files .............. ON
+-- 
+--   Features
+--     // Advanced options, changes not advised
+--     Attributes info .......... OFF
+--     Context bytes ............ 1024
+--     DTD support .............. ON
+--     General entities ......... ON
+--     Large size ............... OFF
+--     Minimum size ............. OFF
+--     Namespace support ........ ON
+-- 
+--   Entropy sources
+--     getrandom ................ 1
+--     syscall SYS_getrandom .... 1
+--     libbsd ................... OFF
+--     /dev/random .............. ON
+-- 
+-- ===========================================================================
+-- ZSTD VERSION: 1.5.7
+-- Performing Test C_FLAG_WALL
+-- Performing Test C_FLAG_WALL - Success
+-- Performing Test CXX_FLAG_WALL
+-- Performing Test CXX_FLAG_WALL - Success
+-- Performing Test C_FLAG_WEXTRA
+-- Performing Test C_FLAG_WEXTRA - Success
+-- Performing Test CXX_FLAG_WEXTRA
+-- Performing Test CXX_FLAG_WEXTRA - Success
+-- Performing Test C_FLAG_WUNDEF
+-- Performing Test C_FLAG_WUNDEF - Success
+-- Performing Test CXX_FLAG_WUNDEF
+-- Performing Test CXX_FLAG_WUNDEF - Success
+-- Performing Test C_FLAG_WSHADOW
+-- Performing Test C_FLAG_WSHADOW - Success
+-- Performing Test CXX_FLAG_WSHADOW
+-- Performing Test CXX_FLAG_WSHADOW - Success
+-- Performing Test C_FLAG_WCAST_ALIGN
+-- Performing Test C_FLAG_WCAST_ALIGN - Success
+-- Performing Test CXX_FLAG_WCAST_ALIGN
+-- Performing Test CXX_FLAG_WCAST_ALIGN - Success
+-- Performing Test C_FLAG_WCAST_QUAL
+-- Performing Test C_FLAG_WCAST_QUAL - Success
+-- Performing Test CXX_FLAG_WCAST_QUAL
+-- Performing Test CXX_FLAG_WCAST_QUAL - Success
+-- Performing Test C_FLAG_WSTRICT_PROTOTYPES
+-- Performing Test C_FLAG_WSTRICT_PROTOTYPES - Success
+-- Performing Test LD_FLAG_WL_Z_NOEXECSTACK
+-- Performing Test LD_FLAG_WL_Z_NOEXECSTACK - Success
+-- Performing Test C_FLAG_QUNUSED_ARGUMENTS
+-- Performing Test C_FLAG_QUNUSED_ARGUMENTS - Success
+-- Performing Test CXX_FLAG_QUNUSED_ARGUMENTS
+-- Performing Test CXX_FLAG_QUNUSED_ARGUMENTS - Success
+-- Performing Test C_FLAG_WA_NOEXECSTACK
+-- Performing Test C_FLAG_WA_NOEXECSTACK - Success
+-- Performing Test CXX_FLAG_WA_NOEXECSTACK
+-- Performing Test CXX_FLAG_WA_NOEXECSTACK - Success
+-- CMAKE_INSTALL_PREFIX: /usr/local
+-- CMAKE_INSTALL_LIBDIR: lib
+-- ZSTD_LEGACY_SUPPORT defined!
+-- ZSTD_MULTITHREAD_SUPPORT is disabled
+CMake Deprecation Warning at src/lz4/build/cmake/CMakeLists.txt:11 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Creating build script for LZ4 version: 1.10.0
+-- Performing Test CFLAG_pedantic_errors
+-- Performing Test CFLAG_pedantic_errors - Success
+-- Performing Test CFLAG_Wall
+-- Performing Test CFLAG_Wall - Success
+-- Performing Test CFLAG_Wextra
+-- Performing Test CFLAG_Wextra - Success
+-- Performing Test CFLAG_Wundef
+-- Performing Test CFLAG_Wundef - Success
+-- Performing Test CFLAG_Wcast_qual
+-- Performing Test CFLAG_Wcast_qual - Success
+-- Performing Test CFLAG_Wcast_align
+-- Performing Test CFLAG_Wcast_align - Success
+-- Performing Test CFLAG_Wshadow
+-- Performing Test CFLAG_Wshadow - Success
+-- Performing Test CFLAG_Wswitch_enum
+-- Performing Test CFLAG_Wswitch_enum - Success
+-- Performing Test CFLAG_Wdeclaration_after_statement
+-- Performing Test CFLAG_Wdeclaration_after_statement - Success
+-- Performing Test CFLAG_Wstrict_prototypes
+-- Performing Test CFLAG_Wstrict_prototypes - Success
+-- Performing Test CFLAG_Wpointer_arith
+-- Performing Test CFLAG_Wpointer_arith - Success
+CMake Deprecation Warning at src/brotli/CMakeLists.txt:5 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Build type is 'Release'
+-- Performing Test BROTLI_EMSCRIPTEN
+-- Performing Test BROTLI_EMSCRIPTEN - Failed
+-- Compiler is not EMSCRIPTEN
+-- Looking for log2
+-- Looking for log2 - found
+-- Performing Test ABSL_INTERNAL_AT_LEAST_CXX17
+-- Performing Test ABSL_INTERNAL_AT_LEAST_CXX17 - Success
+-- Performing Test ABSL_INTERNAL_AT_LEAST_CXX20
+-- Performing Test ABSL_INTERNAL_AT_LEAST_CXX20 - Success
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - not found
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE
+CMake Deprecation Warning at src/protobuf/CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- 
+-- 3.21.12.0
+-- Performing Test protobuf_HAVE_LD_VERSION_SCRIPT
+-- Performing Test protobuf_HAVE_LD_VERSION_SCRIPT - Success
+-- Performing Test protobuf_HAVE_BUILTIN_ATOMICS
+-- Performing Test protobuf_HAVE_BUILTIN_ATOMICS - Success
+'/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/build/protoc' '/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ApkInfo.proto' '--proto_path=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2' '--cpp_out=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2'
+-- generate cpp file 
+-- generate head file 
+'/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/build/protoc' '/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Configuration.proto' '--proto_path=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2' '--cpp_out=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2'
+-- generate cpp file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ApkInfo.pb.cc
+-- generate head file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ApkInfo.pb.h
+'/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/build/protoc' '/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ResourceMetadata.proto' '--proto_path=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2' '--cpp_out=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2'
+-- generate cpp file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Configuration.pb.cc
+-- generate head file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Configuration.pb.h
+'/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/build/protoc' '/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Resources.proto' '--proto_path=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2' '--cpp_out=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2'
+-- generate cpp file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ResourceMetadata.pb.cc
+-- generate head file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ResourceMetadata.pb.h
+'/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/build/protoc' '/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ResourcesInternal.proto' '--proto_path=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2' '--cpp_out=/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2'
+-- generate cpp file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Resources.pb.cc
+-- generate head file /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Resources.pb.h
+-- Found BISON: /usr/bin/bison (found version "3.8.2")
+-- Found FLEX: /usr/bin/flex (found version "2.6.4")
+-- /home/runner/work/android-sdk-tools/android-sdk-tools/src/aidl/aidl_language_l.cpp/home/runner/work/android-sdk-tools/android-sdk-tools/src/aidl/aidl_language_l.h
+-- /home/runner/work/android-sdk-tools/android-sdk-tools/src/aidl/aidl_language_y.cpp/home/runner/work/android-sdk-tools/android-sdk-tools/src/aidl/aidl_language_y.h
+-- Configuring done (7.3s)
+-- Generating done (0.4s)
+-- Build files have been written to: /home/runner/work/android-sdk-tools/android-sdk-tools/build/aarch64
+ninja: Entering directory `build/aarch64'
+[1/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/crypto/poly1305/poly1305_arm_asm.S.o
+[2/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/crypto/hrss/asm/poly_rq_mul.S.o
+[3/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aes-gcm-avx10-x86_64-apple.S.o
+[4/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/crypto/curve25519/asm/x25519-asm-arm.S.o
+[5/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aes-gcm-avx2-x86_64-apple.S.o
+[6/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aes-gcm-avx2-x86_64-linux.S.o
+[7/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aes-gcm-avx10-x86_64-linux.S.o
+[8/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesni-gcm-x86_64-apple.S.o
+[9/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesni-gcm-x86_64-linux.S.o
+[10/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesni-x86-apple.S.o
+[11/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesni-x86_64-apple.S.o
+[12/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesni-x86-linux.S.o
+[13/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesni-x86_64-linux.S.o
+[14/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-armv7-linux.S.o
+[15/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-armv8-apple.S.o
+[16/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-armv8-linux.S.o
+[17/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-armv8-win.S.o
+[18/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-gcm-armv8-apple.S.o
+[19/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-gcm-armv8-win.S.o
+[20/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/aesv8-gcm-armv8-linux.S.o
+[21/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/armv4-mont-linux.S.o
+[22/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/armv8-mont-apple.S.o
+[23/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/armv8-mont-linux.S.o
+[24/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/armv8-mont-win.S.o
+[25/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/bn-586-apple.S.o
+[26/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/bn-586-linux.S.o
+[27/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/bn-armv8-apple.S.o
+[28/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/bn-armv8-linux.S.o
+[29/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/bn-armv8-win.S.o
+[30/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/bsaes-armv7-linux.S.o
+[31/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/co-586-apple.S.o
+[32/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/co-586-linux.S.o
+[33/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-armv4-linux.S.o
+[34/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-neon-armv8-apple.S.o
+[35/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-neon-armv8-linux.S.o
+[36/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-neon-armv8-win.S.o
+[37/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-ssse3-x86-apple.S.o
+[38/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-ssse3-x86-linux.S.o
+[39/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-ssse3-x86_64-apple.S.o
+[40/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-ssse3-x86_64-linux.S.o
+[41/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-x86-linux.S.o
+[42/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-x86-apple.S.o
+[43/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-x86_64-apple.S.o
+[44/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghash-x86_64-linux.S.o
+[45/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghashv8-armv8-apple.S.o
+[46/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghashv8-armv7-linux.S.o
+[47/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghashv8-armv8-win.S.o
+[48/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/ghashv8-armv8-linux.S.o
+[49/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256-armv8-asm-apple.S.o
+[50/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256-armv8-asm-linux.S.o
+[51/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256-armv8-asm-win.S.o
+[52/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256-x86_64-asm-apple.S.o
+[53/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256-x86_64-asm-linux.S.o
+[54/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256_beeu-armv8-asm-apple.S.o
+[55/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256_beeu-armv8-asm-win.S.o
+[56/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256_beeu-armv8-asm-linux.S.o
+[57/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256_beeu-x86_64-asm-apple.S.o
+[58/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/p256_beeu-x86_64-asm-linux.S.o
+[59/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/rdrand-x86_64-apple.S.o
+[60/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/rdrand-x86_64-linux.S.o
+[61/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/rsaz-avx2-apple.S.o
+[62/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/rsaz-avx2-linux.S.o
+[63/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-586-linux.S.o
+[64/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-586-apple.S.o
+[65/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-armv4-large-linux.S.o
+[66/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-armv8-apple.S.o
+[67/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-armv8-win.S.o
+[68/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-x86_64-apple.S.o
+[69/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-armv8-linux.S.o
+[70/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha1-x86_64-linux.S.o
+[71/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-586-apple.S.o
+[72/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-586-linux.S.o
+[73/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-armv4-linux.S.o
+[74/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-armv8-apple.S.o
+[75/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-armv8-win.S.o
+[76/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-x86_64-apple.S.o
+[77/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-armv8-linux.S.o
+[78/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha256-x86_64-linux.S.o
+[79/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-586-apple.S.o
+[80/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-586-linux.S.o
+[81/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-armv4-linux.S.o
+[82/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-armv8-apple.S.o
+[83/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-armv8-win.S.o
+[84/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-x86_64-apple.S.o
+[85/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-x86_64-linux.S.o
+[86/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/sha512-armv8-linux.S.o
+[87/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-armv7-linux.S.o
+[88/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-armv8-apple.S.o
+[89/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-armv8-win.S.o
+[90/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-armv8-linux.S.o
+[91/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-x86-apple.S.o
+[92/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-x86-linux.S.o
+[93/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-x86_64-apple.S.o
+[94/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/vpaes-x86_64-linux.S.o
+[95/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/x86-mont-apple.S.o
+[96/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/x86-mont-linux.S.o
+[97/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/x86_64-mont-apple.S.o
+[98/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/x86_64-mont-linux.S.o
+[99/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/x86_64-mont5-apple.S.o
+[100/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/aes128gcmsiv-x86_64-apple.S.o
+[101/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/bcm/x86_64-mont5-linux.S.o
+[102/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/aes128gcmsiv-x86_64-linux.S.o
+[103/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-armv4-linux.S.o
+[104/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-armv8-apple.S.o
+[105/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-armv8-win.S.o
+[106/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-armv8-linux.S.o
+[107/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-x86-apple.S.o
+[108/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-x86-linux.S.o
+[109/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-x86_64-apple.S.o
+[110/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha-x86_64-linux.S.o
+[111/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha20_poly1305_armv8-apple.S.o
+[112/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha20_poly1305_armv8-win.S.o
+[113/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha20_poly1305_x86_64-apple.S.o
+[114/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha20_poly1305_x86_64-linux.S.o
+[115/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/chacha20_poly1305_armv8-linux.S.o
+[116/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/md5-586-apple.S.o
+[117/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/md5-586-linux.S.o
+[118/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/md5-x86_64-apple.S.o
+[119/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/md5-x86_64-linux.S.o
+[120/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-armv4-linux.S.o
+[121/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-armv8-apple.S.o
+[122/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-armv8-linux.S.o
+[123/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-armv8-win.S.o
+[124/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-x86-apple.S.o
+[125/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-x86-linux.S.o
+[126/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-x86_64-apple.S.o
+[127/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/gen/test_support/trampoline-x86_64-linux.S.o
+[128/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/third_party/fiat/asm/fiat_curve25519_adx_mul.S.o
+[129/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/third_party/fiat/asm/fiat_curve25519_adx_square.S.o
+[130/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/third_party/fiat/asm/fiat_p256_adx_mul.S.o
+[131/970] Building ASM object src/boringssl/CMakeFiles/crypto.dir/src/third_party/fiat/asm/fiat_p256_adx_sqr.S.o
+[132/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_dup.cc.o
+[133/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_d2i_fp.cc.o
+[134/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_bitstr.cc.o
+[135/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_i2d_fp.cc.o
+[136/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_bool.cc.o
+[137/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_gentm.cc.o
+[138/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_int.cc.o
+[139/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_octet.cc.o
+[140/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_mbstr.cc.o
+[141/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_object.cc.o
+[142/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_strex.cc.o
+[143/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_strnid.cc.o
+[144/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_time.cc.o
+[145/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_type.cc.o
+[146/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/asn1_par.cc.o
+[147/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/asn_pack.cc.o
+[148/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/a_utctm.cc.o
+[149/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/f_int.cc.o
+[150/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/f_string.cc.o
+[151/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/asn1_lib.cc.o
+[152/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/posix_time.cc.o
+[153/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/tasn_fre.cc.o
+[154/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/tasn_enc.cc.o
+[155/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/tasn_typ.cc.o
+[156/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/tasn_dec.cc.o
+[157/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/tasn_new.cc.o
+[158/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/base64/base64.cc.o
+[159/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/bio.cc.o
+[160/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/asn1/tasn_utl.cc.o
+[161/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/bio_mem.cc.o
+[162/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/errno.cc.o
+[163/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/connect.cc.o
+[164/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/fd.cc.o
+[165/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/file.cc.o
+[166/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/hexdump.cc.o
+[167/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/pair.cc.o
+[168/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/printf.cc.o
+[169/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/socket.cc.o
+[170/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bio/socket_helper.cc.o
+[171/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/blake2/blake2.cc.o
+[172/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/buf/buf.cc.o
+[173/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bn_extra/bn_asn1.cc.o
+[174/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bn_extra/convert.cc.o
+[175/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bytestring/asn1_compat.cc.o
+[176/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bytestring/ber.cc.o
+[177/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bytestring/cbb.cc.o
+[178/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/chacha/chacha.cc.o
+[179/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bytestring/unicode.cc.o
+[180/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/bytestring/cbs.cc.o
+[181/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/cipher_extra.cc.o
+[182/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/derive_key.cc.o
+[183/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_aesctrhmac.cc.o
+[184/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_aesgcmsiv.cc.o
+[185/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_chacha20poly1305.cc.o
+[186/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_des.cc.o
+[187/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_null.cc.o
+[188/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_rc4.cc.o
+[189/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_rc2.cc.o
+[190/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/e_tls.cc.o
+[191/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_aarch64_apple.cc.o
+[192/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cipher_extra/tls_cbc.cc.o
+[193/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/conf/conf.cc.o
+[194/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_aarch64_fuchsia.cc.o
+[195/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_aarch64_linux.cc.o
+[196/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_aarch64_openbsd.cc.o
+[197/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_aarch64_sysreg.cc.o
+[198/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_aarch64_win.cc.o
+[199/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_arm_freebsd.cc.o
+[200/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_arm_linux.cc.o
+[201/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/cpu_intel.cc.o
+[202/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/crypto.cc.o
+[203/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/curve25519/curve25519_64_adx.cc.o
+[204/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/des/des.cc.o
+[205/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/curve25519/spake25519.cc.o
+[206/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/dh_extra/params.cc.o
+[207/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/dh_extra/dh_asn1.cc.o
+[208/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/dsa/dsa.cc.o
+[209/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/digest_extra/digest_extra.cc.o
+[210/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/dsa/dsa_asn1.cc.o
+[211/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/curve25519/curve25519.cc.o
+[212/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/ec_extra/ec_derive.cc.o
+[213/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/ecdh_extra/ecdh_extra.cc.o
+[214/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/ec_extra/hash_to_curve.cc.o
+[215/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/ec_extra/ec_asn1.cc.o
+[216/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/engine/engine.cc.o
+[217/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/evp.cc.o
+[218/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/err/err.cc.o
+[219/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/ecdsa_extra/ecdsa_asn1.cc.o
+[220/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_dh.cc.o
+[221/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/evp_ctx.cc.o
+[222/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_dh_asn1.cc.o
+[223/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/evp_asn1.cc.o
+[224/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_ec.cc.o
+[225/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_ed25519.cc.o
+[226/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_dsa_asn1.cc.o
+[227/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_ec_asn1.cc.o
+[228/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_ed25519_asn1.cc.o
+[229/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_hkdf.cc.o
+[230/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_x25519.cc.o
+[231/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_rsa.cc.o
+[232/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_rsa_asn1.cc.o
+[233/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/pbkdf.cc.o
+[234/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/print.cc.o
+[235/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/scrypt.cc.o
+[236/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/sign.cc.o
+[237/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/fipsmodule/fips_shared_support.cc.o
+[238/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/evp/p_x25519_asn1.cc.o
+[239/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/ex_data.cc.o
+[240/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/hpke/hpke.cc.o
+[241/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/hrss/hrss.cc.o
+[242/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/lhash/lhash.cc.o
+[243/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/md4/md4.cc.o
+[244/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/md5/md5.cc.o
+[245/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/mem.cc.o
+[246/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/mldsa/mldsa.cc.o
+[247/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/kyber/kyber.cc.o
+[248/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/mlkem/mlkem.cc.o
+[249/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/obj/obj_xref.cc.o
+[250/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/obj/obj.cc.o
+[251/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_all.cc.o
+[252/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_lib.cc.o
+[253/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_oth.cc.o
+[254/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_info.cc.o
+[255/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_pk8.cc.o
+[256/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_x509.cc.o
+[257/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_pkey.cc.o
+[258/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pem/pem_xaux.cc.o
+[259/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pkcs7/pkcs7.cc.o
+[260/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pkcs7/pkcs7_x509.cc.o
+[261/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pkcs8/p5_pbev2.cc.o
+[262/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pkcs8/pkcs8.cc.o
+[263/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/poly1305/poly1305.cc.o
+[264/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/poly1305/poly1305_arm.cc.o
+[265/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/poly1305/poly1305_vec.cc.o
+[266/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pkcs8/pkcs8_x509.cc.o
+[267/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/deterministic.cc.o
+[268/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/pool/pool.cc.o
+[269/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/fork_detect.cc.o
+[270/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/forkunsafe.cc.o
+[271/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/getentropy.cc.o
+[272/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/ios.cc.o
+[273/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/passive.cc.o
+[274/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/rand_extra.cc.o
+[275/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/trusty.cc.o
+[276/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/urandom.cc.o
+[277/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rand_extra/windows.cc.o
+[278/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/refcount.cc.o
+[279/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rc4/rc4.cc.o
+[280/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rsa_extra/rsa_extra.cc.o
+[281/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rsa_extra/rsa_crypt.cc.o
+[282/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rsa_extra/rsa_asn1.cc.o
+[283/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/sha/sha1.cc.o
+[284/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/rsa_extra/rsa_print.cc.o
+[285/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/sha/sha256.cc.o
+[286/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/sha/sha512.cc.o
+[287/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/siphash/siphash.cc.o
+[288/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/stack/stack.cc.o
+[289/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/slhdsa/slhdsa.cc.o
+[290/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/thread.cc.o
+[291/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/spake2plus/spake2plus.cc.o
+[292/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/thread_none.cc.o
+[293/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/thread_win.cc.o
+[294/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/thread_pthread.cc.o
+[295/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/trust_token/pmbtoken.cc.o
+[296/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/trust_token/trust_token.cc.o
+[297/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/trust_token/voprf.cc.o
+[298/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/a_digest.cc.o
+[299/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/a_sign.cc.o
+[300/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/a_verify.cc.o
+[301/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/algorithm.cc.o
+[302/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/asn1_gen.cc.o
+[303/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/fipsmodule/bcm.cc.o
+[304/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/by_dir.cc.o
+[305/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/i2d_pr.cc.o
+[306/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/by_file.cc.o
+[307/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/name_print.cc.o
+[308/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/policy.cc.o
+[309/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/rsa_pss.cc.o
+[310/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/t_crl.cc.o
+[311/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/t_req.cc.o
+[312/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/t_x509.cc.o
+[313/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/t_x509a.cc.o
+[314/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_akey.cc.o
+[315/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_akeya.cc.o
+[316/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_alt.cc.o
+[317/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_bcons.cc.o
+[318/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_bitst.cc.o
+[319/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_conf.cc.o
+[320/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_cpols.cc.o
+[321/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_crld.cc.o
+[322/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_enum.cc.o
+[323/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_extku.cc.o
+[324/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_genn.cc.o
+[325/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_ia5.cc.o
+[326/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_info.cc.o
+[327/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_int.cc.o
+[328/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_lib.cc.o
+[329/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_ocsp.cc.o
+[330/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_ncons.cc.o
+[331/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_pcons.cc.o
+[332/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_pmaps.cc.o
+[333/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_prn.cc.o
+[334/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_purp.cc.o
+[335/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_skey.cc.o
+[336/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509.cc.o
+[337/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_att.cc.o
+[338/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/v3_utl.cc.o
+[339/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_cmp.cc.o
+[340/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_d2.cc.o
+[341/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_def.cc.o
+[342/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_ext.cc.o
+[343/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_lu.cc.o
+[344/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_obj.cc.o
+[345/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_req.cc.o
+[346/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_set.cc.o
+[347/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_trs.cc.o
+[348/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_txt.cc.o
+[349/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_v3.cc.o
+[350/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_vfy.cc.o
+[351/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509_vpm.cc.o
+[352/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509cset.cc.o
+[353/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509name.cc.o
+[354/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509rset.cc.o
+[355/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x509spki.cc.o
+[356/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_algor.cc.o
+[357/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_all.cc.o
+[358/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_attrib.cc.o
+[359/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_crl.cc.o
+[360/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_exten.cc.o
+[361/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_pubkey.cc.o
+[362/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_name.cc.o
+[363/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_req.cc.o
+[364/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_sig.cc.o
+[365/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_spki.cc.o
+[366/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_val.cc.o
+[367/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_x509.cc.o
+[368/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/gen/crypto/err_data.cc.o
+[369/970] Building CXX object src/boringssl/CMakeFiles/crypto.dir/src/crypto/x509/x_x509a.cc.o
+[370/970] Building CXX object src/fmtlib/CMakeFiles/fmt.dir/src/os.cc.o
+[371/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/any_lite.cc.o
+[372/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/arena.cc.o
+[373/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/arenaz_sampler.cc.o
+[374/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/arenastring.cc.o
+[375/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_enum_util.cc.o
+[376/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_util.cc.o
+[377/970] Building CXX object src/fmtlib/CMakeFiles/fmt.dir/src/format.cc.o
+[378/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/implicit_weak_message.cc.o
+[379/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/extension_set.cc.o
+[380/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_tctable_lite.cc.o
+[381/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/io_win32.cc.o
+[382/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/inlined_string_field.cc.o
+[383/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/strtod.cc.o
+[384/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream.cc.o
+[385/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream_impl.cc.o
+[386/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/coded_stream.cc.o
+[387/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream_impl_lite.cc.o
+[388/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/map.cc.o
+[389/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/message_lite.cc.o
+[390/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/parse_context.cc.o
+[391/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/repeated_ptr_field.cc.o
+[392/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/bytestream.cc.o
+[393/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/common.cc.o
+[394/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/int128.cc.o
+[395/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/status.cc.o
+[396/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/statusor.cc.o
+[397/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/repeated_field.cc.o
+[398/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/stringpiece.cc.o
+[399/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/stringprintf.cc.o
+[400/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/structurally_valid.cc.o
+[401/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/time.cc.o
+[402/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/strutil.cc.o
+[403/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/any.cc.o
+[404/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/wire_format_lite.cc.o
+[405/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/any.pb.cc.o
+[406/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/api.pb.cc.o
+[407/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/compiler/importer.cc.o
+[408/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/compiler/parser.cc.o
+[409/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/duration.pb.cc.o
+[410/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor_database.cc.o
+[411/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor.pb.cc.o
+[412/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/empty.pb.cc.o
+[413/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/dynamic_message.cc.o
+[414/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_bases.cc.o
+[415/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/field_mask.pb.cc.o
+[416/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/extension_set_heavy.cc.o
+[417/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/gzip_stream.cc.o
+[418/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_tctable_full.cc.o
+[419/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/printer.cc.o
+[420/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/tokenizer.cc.o
+[421/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_reflection.cc.o
+[422/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/map_field.cc.o
+[423/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/message.cc.o
+[424/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor.cc.o
+[425/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/reflection_ops.cc.o
+[426/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/service.cc.o
+[427/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/source_context.pb.cc.o
+[428/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/substitute.cc.o
+[429/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/timestamp.pb.cc.o
+[430/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/struct.pb.cc.o
+[431/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/type.pb.cc.o
+[432/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/delimited_message_util.cc.o
+[433/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/unknown_field_set.cc.o
+[434/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/field_comparator.cc.o
+[435/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/text_format.cc.o
+[436/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/error_listener.cc.o
+[437/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/field_mask_util.cc.o
+[438/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/datapiece.cc.o
+[439/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_escaping.cc.o
+[440/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/default_value_objectwriter.cc.o
+[441/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/field_mask_utility.cc.o
+[442/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_objectwriter.cc.o
+[443/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_stream_parser.cc.o
+[444/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/object_writer.cc.o
+[445/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/proto_writer.cc.o
+[446/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/protostream_objectsource.cc.o
+[447/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/type_info.cc.o
+[448/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/protostream_objectwriter.cc.o
+[449/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/json_util.cc.o
+[450/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/utility.cc.o
+[451/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/time_util.cc.o
+[452/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/type_resolver_util.cc.o
+[453/970] 
+[454/970] 
+[455/970] 
+[456/970] 
+[457/970] 
+[458/970] Linking CXX static library src/boringssl/libcrypto.a
+[459/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/wrappers.pb.cc.o
+[460/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/bio_ssl.cc.o
+[461/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/wire_format.cc.o
+[462/970] Building CXX object src/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/message_differencer.cc.o
+[463/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/d1_both.cc.o
+[464/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/d1_lib.cc.o
+[465/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/d1_pkt.cc.o
+[466/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/d1_srtp.cc.o
+[467/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/dtls_method.cc.o
+[468/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/dtls_record.cc.o
+[469/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/encrypted_client_hello.cc.o
+[470/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/extensions.cc.o
+[471/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/handoff.cc.o
+[472/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/handshake.cc.o
+[473/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/handshake_client.cc.o
+[474/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/s3_both.cc.o
+[475/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/s3_lib.cc.o
+[476/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/handshake_server.cc.o
+[477/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/s3_pkt.cc.o
+[478/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_aead_ctx.cc.o
+[479/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_asn1.cc.o
+[480/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_buffer.cc.o
+[481/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_cert.cc.o
+[482/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_cipher.cc.o
+[483/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_credential.cc.o
+[484/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_file.cc.o
+[485/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_key_share.cc.o
+[486/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_privkey.cc.o
+[487/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_session.cc.o
+[488/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_stat.cc.o
+[489/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_lib.cc.o
+[490/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_transcript.cc.o
+[491/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_versions.cc.o
+[492/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/t1_enc.cc.o
+[493/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/ssl_x509.cc.o
+[494/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/tls13_both.cc.o
+[495/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/tls13_client.cc.o
+[496/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/tls13_enc.cc.o
+[497/970] Linking CXX static library src/fmtlib/libfmt.a
+[498/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_auto_possess.c.o
+[499/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/pcre2_chartables.c.o
+[500/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_chkdint.c.o
+[501/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/tls13_server.cc.o
+[502/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_config.c.o
+[503/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_context.c.o
+[504/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/tls_method.cc.o
+[505/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_convert.c.o
+[506/970] Building CXX object src/boringssl/CMakeFiles/ssl.dir/src/ssl/tls_record.cc.o
+[507/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_error.c.o
+[508/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_extuni.c.o
+[509/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_find_bracket.c.o
+[510/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_jit_compile.c.o
+[511/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_maketables.c.o
+[512/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_match_data.c.o
+[513/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_newline.c.o
+[514/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_ord2utf.c.o
+[515/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_pattern_info.c.o
+[516/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_script_run.c.o
+[517/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_serialize.c.o
+[518/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_string_utils.c.o
+[519/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_study.c.o
+[520/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_dfa_match.c.o
+[521/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_substring.c.o
+[522/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_substitute.c.o
+[523/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_tables.c.o
+[524/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_valid_utf.c.o
+[525/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_compile.c.o
+[526/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_ucd.c.o
+[527/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_xclass.c.o
+[528/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngerror.c.o
+[529/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngmem.c.o
+[530/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngget.c.o
+[531/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngpread.c.o
+[532/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngrio.c.o
+[533/970] Building C object src/libpng/CMakeFiles/png_static.dir/png.c.o
+[534/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngread.c.o
+[535/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngset.c.o
+[536/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngtrans.c.o
+[537/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngwio.c.o
+[538/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngrutil.c.o
+[539/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngwtran.c.o
+[540/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngwrite.c.o
+[541/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngrtran.c.o
+[542/970] Building C object src/libpng/CMakeFiles/png_static.dir/arm/arm_init.c.o
+[543/970] Building C object src/libpng/CMakeFiles/png_static.dir/arm/palette_neon_intrinsics.c.o
+[544/970] Building C object src/libpng/CMakeFiles/png_static.dir/arm/filter_neon_intrinsics.c.o
+[545/970] Building C object src/expat/expat/CMakeFiles/expat.dir/lib/xmlrole.c.o
+[546/970] Building C object src/libpng/CMakeFiles/png_static.dir/pngwutil.c.o
+[547/970] Linking CXX static library lib/libprotobuf.a
+[548/970] Building C object src/pcre/CMakeFiles/pcre2-8-static.dir/src/pcre2_match.c.o
+[549/970] Building C object src/expat/expat/CMakeFiles/expat.dir/lib/xmlparse.c.o
+[550/970] Building C object src/expat/expat/CMakeFiles/expat.dir/lib/xmltok.c.o
+[551/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/code_generator.cc.o
+[552/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/enum_field.cc.o
+[553/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/extension.cc.o
+[554/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/enum.cc.o
+[555/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/command_line_interface.cc.o
+[556/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/field.cc.o
+[557/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/generator.cc.o
+[558/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/map_field.cc.o
+[559/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/file.cc.o
+[560/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/helpers.cc.o
+[561/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/padding_optimizer.cc.o
+[562/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/message_field.cc.o
+[563/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/service.cc.o
+[564/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/primitive_field.cc.o
+[565/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/parse_function_generator.cc.o
+[566/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/message.cc.o
+[567/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_doc_comment.cc.o
+[568/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_enum_field.cc.o
+[569/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_enum.cc.o
+[570/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/cpp/string_field.cc.o
+[571/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_field_base.cc.o
+[572/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_generator.cc.o
+[573/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_helpers.cc.o
+[574/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_map_field.cc.o
+[575/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_message_field.cc.o
+[576/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_primitive_field.cc.o
+[577/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_message.cc.o
+[578/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_reflection_class.cc.o
+[579/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_repeated_enum_field.cc.o
+[580/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_repeated_primitive_field.cc.o
+[581/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_repeated_message_field.cc.o
+[582/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_source_generator_base.cc.o
+[583/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/csharp/csharp_wrapper_field.cc.o
+[584/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/doc_comment.cc.o
+[585/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/context.cc.o
+[586/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum.cc.o
+[587/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum_field.cc.o
+[588/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum_field_lite.cc.o
+[589/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/enum_lite.cc.o
+[590/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/extension.cc.o
+[591/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/extension_lite.cc.o
+[592/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/field.cc.o
+[593/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/generator.cc.o
+[594/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/generator_factory.cc.o
+[595/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/file.cc.o
+[596/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/kotlin_generator.cc.o
+[597/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/map_field.cc.o
+[598/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/map_field_lite.cc.o
+[599/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/helpers.cc.o
+[600/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_builder_lite.cc.o
+[601/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_builder.cc.o
+[602/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_field.cc.o
+[603/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message.cc.o
+[604/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_field_lite.cc.o
+[605/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/name_resolver.cc.o
+[606/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/message_lite.cc.o
+[607/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/primitive_field.cc.o
+[608/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/service.cc.o
+[609/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/primitive_field_lite.cc.o
+[610/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/shared_code_generator.cc.o
+[611/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/string_field.cc.o
+[612/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/java/string_field_lite.cc.o
+[613/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_enum.cc.o
+[614/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_enum_field.cc.o
+[615/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_extension.cc.o
+[616/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_field.cc.o
+[617/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_generator.cc.o
+[618/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_file.cc.o
+[619/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_map_field.cc.o
+[620/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_message_field.cc.o
+[621/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_helpers.cc.o
+[622/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_message.cc.o
+[623/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_oneof.cc.o
+[624/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/objectivec/objectivec_primitive_field.cc.o
+[625/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/plugin.cc.o
+[626/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/plugin.pb.cc.o
+[627/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/python/helpers.cc.o
+[628/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/python/generator.cc.o
+[629/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/php/php_generator.cc.o
+[630/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/subprocess.cc.o
+[631/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/ruby/ruby_generator.cc.o
+[632/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/python/pyi_generator.cc.o
+[633/970] Building CXX object src/protobuf/CMakeFiles/libprotoc.dir/src/google/protobuf/compiler/zip_writer.cc.o
+[634/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/abi_compatibility.cpp.o
+[635/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/chrono_utils.cpp.o
+[636/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/cmsg.cpp.o
+[637/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/hex.cpp.o
+[638/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/file.cpp.o
+[639/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/mapped_file.cpp.o
+[640/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/posix_strerror_r.cpp.o
+[641/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/parsebool.cpp.o
+[642/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/logging.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/libbase/logging.cpp:242:7: warning: array designators are a C99 extension [-Wc99-designator]
+  242 |       [android::base::VERBOSE] = 7,              // KERN_DEBUG (there is no verbose kernel log
+      |       ^~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+[643/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/process.cpp.o
+[644/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/parsenetaddress.cpp.o
+[645/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/stringprintf.cpp.o
+[646/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/threads.cpp.o
+[647/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/properties.cpp.o
+[648/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/result.cpp.o
+[649/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/errors_unix.cpp.o
+[650/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/test_utils.cpp.o
+[651/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/logger_name.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/logging/liblog/logger_name.cpp:25:3: warning: array designators are a C99 extension [-Wc99-designator]
+   25 |   [LOG_ID_MAIN] = "main",
+      |   ^~~~~~~~~~~~~
+1 warning generated.
+[652/970] Building CXX object lib/CMakeFiles/libbase.dir/__/src/libbase/strings.cpp.o
+[653/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/logger_read.cpp.o
+[654/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/log_event_list.cpp.o
+[655/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/log_event_write.cpp.o
+[656/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/logger_write.cpp.o
+[657/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/properties.cpp.o
+[658/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/logprint.cpp.o
+[659/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/log_time.cpp.o
+[660/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/pmsg_reader.cpp.o
+[661/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/event_tag_map.cpp.o
+[662/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/pmsg_writer.cpp.o
+[663/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/logd_reader.cpp.o
+[664/970] Building CXX object lib/CMakeFiles/liblog.dir/__/src/logging/liblog/logd_writer.cpp.o
+[665/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/config_utils.cpp.o
+[666/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/android_get_control_file.cpp.o
+[667/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/fs.cpp.o
+[668/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/hashmap.cpp.o
+[669/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/iosched_policy.cpp.o
+[670/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/load_file.cpp.o
+[671/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/multiuser.cpp.o
+[672/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/native_handle.cpp.o
+[673/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/record_stream.cpp.o
+[674/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/socket_inaddr_any_server_unix.cpp.o
+[675/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/socket_local_client_unix.cpp.o
+[676/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/socket_local_server_unix.cpp.o
+[677/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/socket_network_client_unix.cpp.o
+[678/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/sockets_unix.cpp.o
+[679/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/sockets.cpp.o
+[680/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/str_parms.cpp.o
+[681/970] Building C object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/strlcpy.c.o
+[682/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/android_reboot.cpp.o
+[683/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/canned_fs_config.cpp.o
+[684/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/klog.cpp.o
+[685/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/partition_utils.cpp.o
+[686/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/fs_config.cpp.o
+[687/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/qtaguid.cpp.o
+[688/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/uevent.cpp.o
+[689/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/properties.cpp.o
+[690/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/FileMap.cpp.o
+[691/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/JenkinsHash.cpp.o
+[692/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/trace-dev.cpp.o
+[693/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/LightRefBase.cpp.o
+[694/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/StopWatch.cpp.o
+[695/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/SystemClock.cpp.o
+[696/970] Building CXX object lib/CMakeFiles/libcutils.dir/__/src/core/libcutils/ashmem-dev.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/core/libcutils/ashmem-dev.cpp:328:9: warning: result of comparison of constant -1 with expression of type 'typeof (ioctl(fd, (((1U) << (((0 + 8) + 8) + 14)) | (((119)) << (0 + 8)) | (((1)) << 0) | ((((sizeof(char[256])))) << ((0 + 8) + 8))), name) < 0)' (aka 'bool') is always false [-Wtautological-constant-out-of-range-compare]
+  328 |         TEMP_FAILURE_RETRY(ioctl(fd, ASHMEM_SET_NAME, name) < 0) ||
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/unistd.h:424:18: note: expanded from macro 'TEMP_FAILURE_RETRY'
+  424 |     } while (_rc == -1 && errno == EINTR); \
+      |              ~~~ ^  ~~
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/core/libcutils/ashmem-dev.cpp:329:9: warning: result of comparison of constant -1 with expression of type 'typeof (ioctl(fd, (((1U) << (((0 + 8) + 8) + 14)) | (((119)) << (0 + 8)) | (((3)) << 0) | ((((sizeof(size_t)))) << ((0 + 8) + 8))), size) < 0)' (aka 'bool') is always false [-Wtautological-constant-out-of-range-compare]
+  329 |         TEMP_FAILURE_RETRY(ioctl(fd, ASHMEM_SET_SIZE, size) < 0)) {
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/unistd.h:424:18: note: expanded from macro 'TEMP_FAILURE_RETRY'
+  424 |     } while (_rc == -1 && errno == EINTR); \
+      |              ~~~ ^  ~~
+2 warnings generated.
+[697/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/Timers.cpp.o
+[698/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/NativeHandle.cpp.o
+[699/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/Threads.cpp.o
+[700/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/Printer.cpp.o
+[701/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/Trace.cpp.o
+[702/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/misc.cpp.o
+[703/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/Tokenizer.cpp.o
+[704/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/Errors.cpp.o
+[705/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/SharedBuffer.cpp.o
+[706/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/RefBase.cpp.o
+[707/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/Looper.cpp.o
+[708/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/StrongPointer.cpp.o
+[709/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/Unicode.cpp.o
+[710/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/String16.cpp.o
+[711/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/String8.cpp.o
+[712/970] Building CXX object lib/CMakeFiles/libutils.dir/__/src/core/libutils/binder/VectorImpl.cpp.o
+[713/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ApkParsing.cpp.o
+[714/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/AssetDir.cpp.o
+[715/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ApkAssets.cpp.o
+[716/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/Asset.cpp.o
+[717/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/AssetManager.cpp.o
+[718/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/BigBuffer.cpp.o
+[719/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/AssetsProvider.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/libs/androidfw/AssetsProvider.cpp:107:18: warning: nested designators are a C99 extension [-Wc99-designator]
+  107 |   struct stat sb{.st_mtime = -1};
+      |                  ^~~~~~~~~
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/libs/androidfw/AssetsProvider.cpp:140:18: warning: nested designators are a C99 extension [-Wc99-designator]
+  140 |   struct stat sb{.st_mtime = -1};
+      |                  ^~~~~~~~~
+2 warnings generated.
+[720/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/AttributeResolution.cpp.o
+[721/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/BigBufferStream.cpp.o
+[722/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ChunkIterator.cpp.o
+[723/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ConfigDescription.cpp.o
+[724/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/FileStream.cpp.o
+[725/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/Locale.cpp.o
+[726/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/Idmap.cpp.o
+[727/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/LocaleData.cpp.o
+[728/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/AssetManager2.cpp.o
+[729/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/misc.cpp.o
+[730/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/LoadedArsc.cpp.o
+[731/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/NinePatch.cpp.o
+[732/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ObbFile.cpp.o
+[733/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/PosixUtils.cpp.o
+[734/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/PngChunkFilter.cpp.o
+[735/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/LocaleDataLookup.cpp.o
+[736/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/PngCrunch.cpp.o
+[737/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/Png.cpp.o
+[738/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ResourceTimer.cpp.o
+[739/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/StreamingZipInflater.cpp.o
+[740/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ResourceUtils.cpp.o
+[741/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/TypeWrappers.cpp.o
+[742/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/StringPool.cpp.o
+[743/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ZipFileRO.cpp.o
+[744/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/Util.cpp.o
+[745/970] Building C object lib/CMakeFiles/libincfs.dir/__/src/incremental_delivery/incfs/incfs_ndk.c.o
+[746/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ResourceTypes.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/libs/androidfw/ResourceTypes.cpp:2288:52: warning: bitwise operation between different enumeration types ('android::ResTable_config::(unnamed enum at /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/libs/androidfw/include/androidfw/ResourceTypes.h:1065:5)' and 'android::ResTable_config::(unnamed enum at /home/runner/work/android-sdk-tools/android-sdk-tools/src/base/libs/androidfw/include/androidfw/ResourceTypes.h:1073:5)') is deprecated [-Wdeprecated-anon-enum-enum-conversion]
+ 2288 |     if (((inputFlags^o.inputFlags)&(MASK_KEYSHIDDEN|MASK_NAVHIDDEN)) != 0)
+      |                                     ~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+1 warning generated.
+[747/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/ZipUtils.cpp.o
+[748/970] Building CXX object lib/CMakeFiles/libandroidfw.dir/__/src/base/libs/androidfw/PathUtils.cpp.o
+[749/970] Building CXX object lib/CMakeFiles/libincfs.dir/__/src/incremental_delivery/incfs/path.cpp.o
+[750/970] Building CXX object lib/CMakeFiles/libincfs.dir/__/src/incremental_delivery/incfs/util/map_ptr.cpp.o
+[751/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/android/android.c.o
+[752/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/android/android_seapp.c.o
+[753/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/avc.c.o
+[754/970] Building CXX object lib/CMakeFiles/libincfs.dir/__/src/incremental_delivery/sysprop/IncrementalProperties.sysprop.cpp.o
+[755/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/avc_sidtab.c.o
+[756/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/avc_internal.c.o
+[757/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/booleans.c.o
+[758/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/callbacks.c.o
+[759/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/canonicalize_context.c.o
+[760/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/checkAccess.c.o
+[761/970] Building CXX object lib/CMakeFiles/libincfs.dir/__/src/incremental_delivery/incfs/incfs.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/incremental_delivery/incfs/incfs.cpp:557:23: warning: bitwise operation between different enumeration types ('IncFsMountFlags' and 'android::incfs::MountFlags') is deprecated [-Wdeprecated-enum-enum-conversion]
+  557 |     if (options.flags & createOnly) {
+      |         ~~~~~~~~~~~~~ ^ ~~~~~~~~~~
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/incremental_delivery/incfs/incfs.cpp:562:30: warning: bitwise operation between different enumeration types ('IncFsMountFlags' and 'android::incfs::MountFlags') is deprecated [-Wdeprecated-enum-enum-conversion]
+  562 |     } else if (options.flags & android::incfs::truncate) {
+      |                ~~~~~~~~~~~~~ ^ ~~~~~~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+[762/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/check_context.c.o
+[763/970] Building CXX object lib/CMakeFiles/libincfs.dir/__/src/incremental_delivery/incfs/MountRegistry.cpp.o
+[764/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/compute_av.c.o
+[765/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/compute_create.c.o
+[766/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/compute_member.c.o
+[767/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/context.c.o
+[768/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/deny_unknown.c.o
+[769/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/disable.c.o
+[770/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/enabled.c.o
+[771/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/freecon.c.o
+[772/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/fgetfilecon.c.o
+[773/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/fsetfilecon.c.o
+[774/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/get_initial_context.c.o
+[775/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/getenforce.c.o
+[776/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/getfilecon.c.o
+[777/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/getpeercon.c.o
+[778/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/init.c.o
+[779/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/label.c.o
+[780/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/label_support.c.o
+[781/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/lgetfilecon.c.o
+[782/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/label_backends_android.c.o
+[783/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/load_policy.c.o
+[784/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/lsetfilecon.c.o
+[785/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/policyvers.c.o
+[786/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/mapping.c.o
+[787/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/matchpathcon.c.o
+[788/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/procattr.c.o
+[789/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/regex.c.o
+[790/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/reject_unknown.c.o
+[791/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/selinux_internal.c.o
+[792/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/setenforce.c.o
+[793/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/sestatus.c.o
+[794/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/setfilecon.c.o
+[795/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/label_file.c.o
+[796/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/setrans_client.c.o
+[797/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/stringrep.c.o
+[798/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/sha1.c.o
+[799/970] Building C object lib/CMakeFiles/libselinux.dir/__/src/selinux/libselinux/src/android/android_device.c.o
+[800/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/avrule_block.c.o
+[801/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/boolean_record.c.o
+[802/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/assertion.c.o
+[803/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/booleans.c.o
+[804/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/constraint.c.o
+[805/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/avtab.c.o
+[806/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/debug.c.o
+[807/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/context.c.o
+[808/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/context_record.c.o
+[809/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/handle.c.o
+[810/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/conditional.c.o
+[811/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/hashtab.c.o
+[812/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/ebitmap.c.o
+[813/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/iface_record.c.o
+[814/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/interfaces.c.o
+[815/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/hierarchy.c.o
+[816/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/kernel_to_common.c.o
+[817/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/kernel_to_cil.c.o
+[818/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/kernel_to_conf.c.o
+[819/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/expand.c.o
+[820/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/link.c.o
+[821/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/mls.c.o
+[822/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/module.c.o
+[823/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/node_record.c.o
+[824/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/nodes.c.o
+[825/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/polcaps.c.o
+[826/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/policydb_convert.c.o
+[827/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/policydb_public.c.o
+[828/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/optimize.c.o
+[829/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/port_record.c.o
+[830/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/ports.c.o
+[831/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/policydb_validate.c.o
+[832/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/sidtab.c.o
+[833/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/module_to_cil.c.o
+[834/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/symtab.c.o
+[835/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/policydb.c.o
+[836/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/user_record.c.o
+[837/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/services.c.o
+[838/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/users.c.o
+[839/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/util.c.o
+[840/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/android.c.o
+[841/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil.c.o
+[842/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/src/write.c.o
+[843/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_find.c.o
+[844/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_fqn.c.o
+[845/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_list.c.o
+[846/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_copy_ast.c.o
+[847/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_log.c.o
+[848/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_mem.c.o
+[849/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_parser.c.o
+[850/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_build_ast.c.o
+[851/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_binary.c.o
+[852/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_reset_ast.c.o
+[853/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_stack.c.o
+[854/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_policy.c.o
+[855/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_strpool.c.o
+[856/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_post.c.o
+[857/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_symtab.c.o
+[858/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_tree.c.o
+[859/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_verify.c.o
+[860/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_write_ast.c.o
+[861/970] Building C object lib/CMakeFiles/libsepol.dir/__/src/selinux/libsepol/cil/src/cil_resolve_ast.c.o
+[862/970] Building CXX object lib/CMakeFiles/libziparchive.dir/__/src/libziparchive/zip_archive_stream_entry.cc.o
+[863/970] Building CXX object lib/CMakeFiles/libziparchive.dir/__/src/libziparchive/zip_cd_entry_map.cc.o
+[864/970] Building CXX object lib/CMakeFiles/libziparchive.dir/__/src/libziparchive/zip_error.cpp.o
+[865/970] Building CXX object lib/CMakeFiles/libziparchive.dir/__/src/libziparchive/incfs_support/signal_handling.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/libziparchive/incfs_support/signal_handling.cpp:37:19: warning: ISO C++ requires field designators to be specified in declaration order; field 'sigaction::(anonymous union at /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/bits/signal_types.h:122:20)' will be initialized after field 'sa_flags' [-Wreorder-init-list]
+   37 |       .sa_flags = SA_SIGINFO,
+      |       ~~~~~~~~~~~~^~~~~~~~~~
+/home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/asm-generic/signal-defs.h:17:20: note: expanded from macro 'SA_SIGINFO'
+   17 | #define SA_SIGINFO 0x00000004
+      |                    ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/libziparchive/incfs_support/signal_handling.cpp:36:7: note: previous initialization for field 'sigaction::(anonymous union at /home/runner/work/android-sdk-tools/android-sdk-tools/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/bits/signal_types.h:122:20)' is here
+   36 |       .sa_sigaction = &handler,
+      |       ^~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+[866/970] Building CXX object lib/CMakeFiles/libziparchive.dir/__/src/libziparchive/zip_writer.cc.o
+[867/970] Building CXX object lib/CMakeFiles/libziparchive.dir/__/src/libziparchive/zip_archive.cc.o
+[868/970] Building CXX object lib/CMakeFiles/libpackagelistparser.dir/__/src/core/libpackagelistparser/packagelistparser.cpp.o
+[869/970] Building CXX object lib/CMakeFiles/libbuildversion.dir/__/src/soong/cc/libbuildversion/libbuildversion.cpp.o
+[870/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/compile/Pseudolocalizer.cpp.o
+[871/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/compile/InlineXmlFormatParser.cpp.o
+[872/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/compile/IdAssigner.cpp.o
+[873/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/compile/PseudolocaleGenerator.cpp.o
+[874/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/compile/XmlIdCollector.cpp.o
+[875/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/filter/AbiFilter.cpp.o
+[876/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/filter/ConfigFilter.cpp.o
+[877/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/Archive.cpp.o
+[878/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/configuration/ConfigurationParser.cpp.o
+[879/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/Container.cpp.o
+[880/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/binary/ResChunkPullParser.cpp.o
+[881/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/binary/BinaryResourceParser.cpp.o
+[882/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/binary/ResEntryWriter.cpp.o
+[883/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/dump/DumpManifest.cpp.o
+[884/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/binary/XmlFlattener.cpp.o
+[885/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/binary/TableFlattener.cpp.o
+[886/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/io/File.cpp.o
+[887/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/proto/ProtoSerialize.cpp.o
+[888/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/format/proto/ProtoDeserialize.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/format/proto/ProtoDeserialize.cpp:983:37: warning: 'dimension_value_deprecated' is deprecated [-Wdeprecated-declarations]
+  983 |           float dimen_val = pb_prim.dimension_value_deprecated();
+      |                                     ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Resources.pb.h:6787:3: note: 'dimension_value_deprecated' has been explicitly marked deprecated here
+ 6787 |   PROTOBUF_DEPRECATED float dimension_value_deprecated() const;
+      |   ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/port_def.inc:339:45: note: expanded from macro 'PROTOBUF_DEPRECATED'
+  339 | # define PROTOBUF_DEPRECATED __attribute__((deprecated))
+      |                                             ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/format/proto/ProtoDeserialize.cpp:988:40: warning: 'fraction_value_deprecated' is deprecated [-Wdeprecated-declarations]
+  988 |           float fraction_val = pb_prim.fraction_value_deprecated();
+      |                                        ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/Resources.pb.h:6800:3: note: 'fraction_value_deprecated' has been explicitly marked deprecated here
+ 6800 |   PROTOBUF_DEPRECATED float fraction_value_deprecated() const;
+      |   ^
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/protobuf/src/google/protobuf/port_def.inc:339:45: note: expanded from macro 'PROTOBUF_DEPRECATED'
+  339 | # define PROTOBUF_DEPRECATED __attribute__((deprecated))
+      |                                             ^
+2 warnings generated.
+[889/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/io/FileSystem.cpp.o
+[890/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/io/StringStream.cpp.o
+[891/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/io/Util.cpp.o
+[892/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/io/ZipArchive.cpp.o
+[893/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/AutoVersioner.cpp.o
+[894/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/FeatureFlagsFilter.cpp.o
+[895/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/FlagDisabledResourceRemover.cpp.o
+[896/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/PrivateAttributeMover.cpp.o
+[897/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/NoDefaultResourceRemover.cpp.o
+[898/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/ManifestFixer.cpp.o
+[899/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/ResourceExcluder.cpp.o
+[900/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/ReferenceLinker.cpp.o
+[901/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/TableMerger.cpp.o
+[902/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/XmlNamespaceRemover.cpp.o
+[903/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/XmlCompatVersioner.cpp.o
+[904/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/link/XmlReferenceLinker.cpp.o
+[905/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/optimize/ResourceDeduper.cpp.o
+[906/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/optimize/ResourceFilter.cpp.o
+[907/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/optimize/Obfuscator.cpp.o
+[908/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/optimize/MultiApkGenerator.cpp.o
+[909/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/optimize/VersionCollapser.cpp.o
+[910/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/process/ProductFilter.cpp.o
+[911/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/text/Unicode.cpp.o
+[912/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/text/Utf8Iterator.cpp.o
+[913/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/text/Printer.cpp.o
+[914/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/split/TableSplitter.cpp.o
+[915/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/process/SymbolTable.cpp.o
+[916/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/util/Util.cpp.o
+[917/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/util/Files.cpp.o
+[918/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/DominatorTree.cpp.o
+[919/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/java/ClassDefinition.cpp.o
+[920/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/Debug.cpp.o
+[921/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/java/AnnotationProcessor.cpp.o
+[922/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/java/ManifestClassGenerator.cpp.o
+[923/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/java/JavaClassGenerator.cpp.o
+[924/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/java/ProguardRules.cpp.o
+[925/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/Resource.cpp.o
+[926/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/LoadedApk.cpp.o
+[927/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ResourceUtils.cpp.o
+[928/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ResourceParser.cpp.o
+[929/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ResourceTable.cpp.o
+[930/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/SdkConstants.cpp.o
+[931/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/trace/TraceBuffer.cpp.o
+[932/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ResourceValues.cpp.o
+/home/runner/work/android-sdk-tools/android-sdk-tools/src/base/tools/aapt2/ResourceValues.cpp:447:17: warning: implicit conversion from 'type' (aka 'long') to 'float' changes value from 9223372036854775807 to 9223372036854775808 [-Wimplicit-const-int-float-conversion]
+  447 |   if (fabs(f) > std::numeric_limits<int64_t>::max() || fabs(f) < 1e-10) {
+      |               ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+[933/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/xml/XmlActionExecutor.cpp.o
+[934/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/xml/XmlUtil.cpp.o
+[935/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/xml/XmlPullParser.cpp.o
+[936/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/xml/XmlDom.cpp.o
+[937/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ValueTransformer.cpp.o
+[938/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/Configuration.pb.cc.o
+[939/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ResourceMetadata.pb.cc.o
+[940/970] Linking CXX static library src/boringssl/libssl.a
+[941/970] Linking C static library src/pcre/libpcre2-8.a
+[942/970] Linking C static library src/libpng/libpng16.a
+[943/970] Linking C static library lib/libexpat.a
+[944/970] Linking CXX static library lib/libprotoc.a
+[945/970] Linking CXX static library lib/liblibbase.a
+[946/970] Linking CXX static library lib/libliblog.a
+[947/970] Linking CXX static library lib/liblibcutils.a
+[948/970] Linking CXX static library lib/liblibutils.a
+[949/970] Linking CXX static library lib/liblibandroidfw.a
+[950/970] Linking CXX static library lib/liblibincfs.a
+[951/970] Linking C static library lib/liblibselinux.a
+[952/970] Linking C static library lib/liblibsepol.a
+[953/970] Linking CXX static library lib/liblibziparchive.a
+[954/970] Linking CXX static library lib/liblibbuildversion.a
+[955/970] Linking CXX static library lib/liblibpackagelistparser.a
+[956/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ResourcesInternal.pb.cc.o
+[957/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/Resources.pb.cc.o
+[958/970] Building CXX object build-tools/CMakeFiles/libaapt2.dir/__/src/base/tools/aapt2/ApkInfo.pb.cc.o
+[959/970] Linking CXX static library lib/liblibaapt2.a
+[960/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/Main.cpp.o
+[961/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/ApkInfo.cpp.o
+[962/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Command.cpp.o
+[963/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Diff.cpp.o
+[964/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Convert.cpp.o
+[965/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Compile.cpp.o
+[966/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Dump.cpp.o
+[967/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Util.cpp.o
+[968/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Optimize.cpp.o
+[969/970] Building CXX object build-tools/CMakeFiles/aapt2.dir/__/src/base/tools/aapt2/cmd/Link.cpp.o
+[970/970] Linking CXX executable bin/aapt2
+[1;32mbuild success cost time: 5m9s[0m
+== candidates ==
+./build/aarch64/bin/build-tools/aapt2
+total 6220
+drwxr-xr-x  2 runner runner    4096 Sep  2 02:35 .
+drwxr-xr-x 14 runner runner    4096 Sep  2 02:35 ..
+-rwxr-xr-x  1 runner runner 6359408 Sep  2 02:35 aapt2

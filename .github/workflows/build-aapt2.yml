@@ -82,6 +82,11 @@ jobs:
           patch -p1 < patches/CombinedIterator.h.patch 2>&1 | tee -a ci/build.log
           grep -c 'friend void swap' src/base/libs/androidfw/include/androidfw/CombinedIterator.h
 
+      - name: Suppress -Wno-invalid-constexpr in CMake flags for AOSP main headers
+        run: |
+          sed -i 's/-Wno-attributes/-Wno-attributes -Wno-invalid-constexpr/' CMakeLists.txt
+          grep -n 'CMAKE_CXX_FLAGS' CMakeLists.txt
+
       - name: Build host protoc (protobuf)
         run: |
           cd src/protobuf

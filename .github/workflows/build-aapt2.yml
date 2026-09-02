@@ -39,8 +39,25 @@ jobs:
 
       - name: Clone AOSP source (main)
         run: |
-          python3 get_source.py --tags main 2>&1 | tee -a ci/build.log
+          for i in $(seq 1 6); do
+            echo "=== get_source attempt $i ===" | tee -a ci/build.log
+            python3 get_source.py --tags main 2>&1 | tee -a ci/build.log
+            FAIL=0
+            for d in src/*/; do
+              [ -e "$d" ] || continue
+              if ! git -C "$d" rev-parse --verify HEAD >/dev/null 2>&1; then
+                echo "incomplete repo: $d (removing for retry)" | tee -a ci/build.log
+                rm -rf "$d"
+                FAIL=1
+              fi
+            done
+            if [ "$FAIL" = "0" ]; then
+              echo "all source repos cloned OK" | tee -a ci/build.log
+              break
+            fi
+          done
           test -d src/base/tools/aapt2
+          test -d src/core/libcutils
 
       - name: Apply protobuf CMake patch (config.h include + android log fix)
         run: |

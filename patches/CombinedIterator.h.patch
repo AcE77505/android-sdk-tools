@@ -1,0 +1,14 @@
+--- a/src/base/libs/androidfw/include/androidfw/CombinedIterator.h
++++ b/src/base/libs/androidfw/include/androidfw/CombinedIterator.h
+@@ -60,6 +60,11 @@
+     return this->first <=> other.first;
+   }
+   friend void swap(RefPair& l, RefPair& r) {
++    using std::swap;
++    swap(l.first, r.first);
++    swap(l.second, r.second);
++  }
++  friend void swap(RefPair&& l, RefPair&& r) {
+     using std::swap;
+     swap(l.first, r.first);
+     swap(l.second, r.second);

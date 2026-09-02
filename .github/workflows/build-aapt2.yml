@@ -77,6 +77,11 @@ jobs:
           echo "remaining >30 __INTRODUCED_IN markers: $REMAIN"
           test "$REMAIN" = "0"
 
+      - name: Apply CombinedIterator rvalue swap patch (NDK r29 libc++)
+        run: |
+          patch -p1 < patches/CombinedIterator.h.patch 2>&1 | tee -a ci/build.log
+          grep -c 'friend void swap' src/base/libs/androidfw/include/androidfw/CombinedIterator.h
+
       - name: Build host protoc (protobuf)
         run: |
           cd src/protobuf
